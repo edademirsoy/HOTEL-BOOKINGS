@@ -1,2 +1,2 @@
 # HOTEL BOOKINGS
- Otel Rezervasyon Analizi
+ Otel Rezervasyon Analizi POWER BI
